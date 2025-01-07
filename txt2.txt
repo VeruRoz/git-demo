@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+i am alive
+=======
+you alive?
+
+i am not
+>>>>>>> master
